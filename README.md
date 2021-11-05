@@ -1,6 +1,6 @@
 # Fake Shop 
 
-React , Redux 
+React , Redux , Semantic 
 
 
 
